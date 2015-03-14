@@ -1,0 +1,1 @@
+An android application to get Udaipur Talents website updates on your mobile.
